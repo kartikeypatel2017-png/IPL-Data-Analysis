@@ -93,9 +93,7 @@ Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter
 - Venue-wise batting/bowling averages
 - A Streamlit dashboard on top of `src/player_stats.py` for interactive filtering
 
-## License
 
-MIT — see [LICENSE](LICENSE).
 
 ## Author
 

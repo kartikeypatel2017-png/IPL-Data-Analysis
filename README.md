@@ -50,17 +50,7 @@ The project includes an interactive dashboard built using **Streamlit, Pandas an
 
 ### Dashboard Preview
 
-Add your dashboard screenshot here:
-
-```text
-Dashboard.png
-```
-
-You can place the screenshot in the repository and display it using:
-
-```markdown
 ![IPL Analytics Dashboard](./ipl-data-analysis/Dashboard.png)
-```
 
 ---
 

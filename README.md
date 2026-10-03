@@ -59,7 +59,7 @@ Dashboard.png
 You can place the screenshot in the repository and display it using:
 
 ```markdown
-![IPL Analytics Dashboard](Dashboard.png)
+![IPL Analytics Dashboard](ipl-data-analysis/Dashboard.png)
 ```
 
 ---
